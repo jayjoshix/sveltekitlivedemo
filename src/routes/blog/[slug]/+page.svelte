@@ -2,4 +2,4 @@
     export let data
 </script>
 
-<p> {data.content} </p>
+<h1 class="font-bold text-center ">{data.content}</h1>
